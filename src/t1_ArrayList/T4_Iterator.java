@@ -1,6 +1,5 @@
 package t1_ArrayList;
 
-import java.awt.print.*;
 import java.util.*;
 import java.util.stream.*;
 
